@@ -1,0 +1,15 @@
+{
+  "name": "discord-game-grouper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/link00000000/discord-game-grouper.git",
+  "author": "link00000000 <crandall.logan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eris": "^0.7.0",
+    "winston": "^2.3.1"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
